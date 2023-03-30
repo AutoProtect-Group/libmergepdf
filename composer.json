@@ -1,8 +1,8 @@
 {
-    "name": "iio/libmergepdf",
+    "name": "autoprotect-group/libmergepdf",
     "description": "Library for merging multiple PDFs",
     "keywords": ["pdf", "merge"],
-    "homepage": "https://github.com/hanneskod/libmergepdf",
+    "homepage": "https://github.com/AutoProtect-Group/libmergepdf",
     "type": "library",
     "license": "WTFPL",
     "authors": [
